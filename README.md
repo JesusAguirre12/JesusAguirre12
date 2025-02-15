@@ -2,13 +2,4 @@
 - 🌱 I’m currently learning multiple languages
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I sometimes hate c++
-
-And remember. In the darkest moments, when you feel like you're on the edge of the abyss and hope seems to have abandoned you, remember that even in the deepest night, the stars shine brighter. Falling doesn't define you, giving up is not an option; it's in those falls that you find the strength to get up with more determination, where you discover that courage is not the absence of fear, but the decision to move forward despite it. Don't say you can't, don't limit yourself with an 'I don't know'; Instead, ask yourself how you can overcome the challenge,how you can transform darkness into light. Your true power lies in every time you, despite everything, decide not to let yourself be defeated and to fight one more day. Because even if the road is hard and the darkness seems endless, there is always light waiting on the horizon, and that light is you. So remember, don´t give up buddy.So, when the weight of the world feels unbearable and shadows loom large, take a moment to breathe. Inhale the possibility that lies within you, and exhale the doubts that cling to your spirit. Every challenge you face is not a barrier, but a stepping stone, a lesson wrapped in the guise of hardship. Embrace the struggle, for it is in the struggle that you sculpt your resilience.
-
-Look around you; nature itself teaches us this profound truth. The mightiest trees grow from the harshest storms, their roots digging deeper, their branches reaching higher. You, too, have that same potential. Let each setback be a teacher, each stumble a reminder that you are still moving forward.
-
-And when the whispers of despair try to drown out your inner voice, stand tall and remind yourself of your victories, no matter how small. Celebrate the moments when you chose to rise, when you chose to believe in the possibility of a brighter tomorrow. Let those moments fuel your fire, igniting a passion within you that cannot be extinguished.
-
-Remember, the dawn is always darkest before it breaks. Hold onto hope, for it is the beacon that guides you through the night. Trust in the journey, for every step you take, no matter how tentative, is a testament to your strength. You are not alone in this; countless others have walked similar paths, and together, we illuminate the way for one another.
-
-So, as you stand at the precipice of uncertainty, take a leap of faith. Embrace the unknown with open arms, for it is there that you will find the most profound growth. You are a warrior, forged in the fires of adversity, and your story is still being written. Keep pushing forward, keep shining your light, and remember: you are capable of more than you can ever imagine. Don’t give up, dear friend; the best is yet to come.
+I hate maxflow-mincut problems
